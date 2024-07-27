@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(0, 221, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.menu,
+.menu * {
+    background-color: rgb(192, 192, 192);
+    width: 360px;
+}
+
+h1,
+h2,
+h3 {
+    background-color: rgba(255, 255, 255, 0.696);
+    width: 400px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.description {
+    background-color: rgb(255, 255, 141);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 475px;
+}
+
+.ingredients, 
+.ingredients * {
+    background-color: rgb(109, 255, 83);
+    width: 443px;
+}
+
+.steps,
+.steps * {
+    background-color: rgb(255, 198, 92);
+    width: 443px;
+}
